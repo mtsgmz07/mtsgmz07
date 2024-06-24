@@ -12,13 +12,13 @@
 
 <h3 align="left">Framework :</h3>
 
-![img](https://img.shields.io/badge/Node JS-6DB450?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![img](https://img.shields.io/badge/Node%20JS-6DB450?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![img](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![img](https://img.shields.io/badge/Laravel-38B2AC?style=for-the-badge&logo=laravel&logoColor=white)
 
 <h3 align="left">Database :</h3>
 
-![img](https://img.shields.io/badge/Php My Admin-FF9800?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![img](https://img.shields.io/badge/Php%20My%20Admin-FF9800?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![img](https://img.shields.io/badge/MongoDB-419F38?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
