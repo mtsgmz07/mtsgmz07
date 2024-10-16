@@ -9,6 +9,7 @@
 ![img](https://img.shields.io/badge/SQL-D47131?style=for-the-badge&logo=mysql&logoColor=white)
 ![img](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![img](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white)
+![img](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=ejs&logoColor=white)
 
 <h3 align="left">Framework :</h3>
 
