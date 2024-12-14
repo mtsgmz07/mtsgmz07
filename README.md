@@ -13,13 +13,13 @@
 ![img](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![img](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white)
 ![img](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=ejs&logoColor=white)
+![img](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h3 align="left">Framework :</h3>
 
 ![img](https://img.shields.io/badge/Node%20JS-6DB450?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![img](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![img](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-![img](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h3 align="left">Database :</h3>
 
