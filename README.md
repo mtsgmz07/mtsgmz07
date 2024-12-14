@@ -19,6 +19,7 @@
 ![img](https://img.shields.io/badge/Node%20JS-6DB450?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![img](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![img](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![img](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h3 align="left">Database :</h3>
 
